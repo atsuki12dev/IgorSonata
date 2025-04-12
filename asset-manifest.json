@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/IgorSonata/static/css/main.18734b8d.css",
-    "main.js": "/IgorSonata/static/js/main.a18c2103.js",
+    "main.js": "/IgorSonata/static/js/main.ebe3c431.js",
     "static/media/KosugiMaru.ttf": "/IgorSonata/static/media/KosugiMaru.dc10c3fc0d79e669c966.ttf",
     "static/media/SercicesFone.png": "/IgorSonata/static/media/SercicesFone.dec7943417969351185b.png",
     "static/media/AboutUsFone.png": "/IgorSonata/static/media/AboutUsFone.cf18620fd61e7c477324.png",
     "static/media/Inter.ttf": "/IgorSonata/static/media/Inter.fd012577d3f8e88a8149.ttf",
     "index.html": "/IgorSonata/index.html",
     "main.18734b8d.css.map": "/IgorSonata/static/css/main.18734b8d.css.map",
-    "main.a18c2103.js.map": "/IgorSonata/static/js/main.a18c2103.js.map"
+    "main.ebe3c431.js.map": "/IgorSonata/static/js/main.ebe3c431.js.map"
   },
   "entrypoints": [
     "static/css/main.18734b8d.css",
-    "static/js/main.a18c2103.js"
+    "static/js/main.ebe3c431.js"
   ]
 }
