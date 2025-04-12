@@ -1,6 +1,6 @@
 export const advantagesData = {
     title: 'Наши преимущества',
-    imageUrl: '/img/Advantages.png',
+    imageUrl: './img/Advantages.png',
     content: [
         'Продакшн артистов любого уровня',
         'Наши работы на радио и в популярных плейлистах',
@@ -11,7 +11,7 @@ export const advantagesData = {
   
 export const stock = {
     title: 'Акции',
-    imageUrl: '/img/Stock.png',
+    imageUrl: './img/Stock.png',
     content: [
         'Подарочный сертификат',
         'Скидка на первое посещение студии',

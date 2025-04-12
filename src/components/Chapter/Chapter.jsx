@@ -5,7 +5,7 @@ const Chapter = ({ title, imageUrl, content }) => {
   return (
     <div className={classes.advantages}>
       <div className={classes.titleBlock}>
-        <img className={classes.wave} src="/img/wave.png" alt="wave.png" />
+        <img className={classes.wave} src="./img/wave.png" alt="wave.png" />
         <h1 className={classes.title}>{title}</h1>
         <hr className={classes.hr} />
       </div>

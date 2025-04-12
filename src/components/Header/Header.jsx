@@ -9,11 +9,11 @@ const Header = () => {
     <header className={classes.header}>
       <div className={classes.block}>
         <div className={classes.nav}>
-          <p className={classes.navText} onClick={() =>navigate('/')}>ГЛАВНАЯ</p>
-          <p className={classes.navText} onClick={() =>navigate('/AboutUs')}>О НАС</p>
-          <p className={classes.navText} onClick={() =>navigate('/Services')}>УСЛУГИ</p>
+          <p className={classes.navText} onClick={() =>navigate('/IgorSonata/')}>ГЛАВНАЯ</p>
+          <p className={classes.navText} onClick={() =>navigate('/IgorSonata/AboutUs')}>О НАС</p>
+          <p className={classes.navText} onClick={() =>navigate('/IgorSonata/Services')}>УСЛУГИ</p>
         </div>
-        <img className={classes.logo} onClick={() => navigate('/')} src="/img/Logo.svg" alt="Logo.svg" />
+        <img className={classes.logo} onClick={() => navigate('/IgorSonata/')} src="./img/Logo.svg" alt="Logo.svg" />
         <div className={classes.socialMedia}>
           <SocialMedia/>
         </div>

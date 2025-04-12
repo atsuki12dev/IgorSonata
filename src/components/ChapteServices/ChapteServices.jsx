@@ -8,7 +8,7 @@ const ChapteServices = () => {
   return (
     <div className={classes.services}>
       <div className={classes.titleBlock}>
-        <img className={classes.wave} src="/img/wave.png" alt="wave.png" />
+        <img className={classes.wave} src="./img/wave.png" alt="wave.png" />
         <h1 className={classes.title}>Услуги</h1>
         <hr className={classes.hr} />
       </div>
@@ -25,7 +25,7 @@ const ChapteServices = () => {
         </div>
         <img
           className={classes.fonChapter}
-          src="/img/ChapteServices.png"
+          src="./img/ChapteServices.png"
           alt="Фон для услуг"
         />
       </div>

@@ -6,7 +6,7 @@ const Footer = ({ openContactModal }) => {
   return (
     <footer className={classes.footer}>
       <div className={classes.up}>
-        <img className={classes.footerLogo} src="/img/Logo.svg" alt="Sonata Logo" />
+        <img className={classes.footerLogo} src="./img/Logo.svg" alt="Sonata Logo" />
         <button className={classes.ctaButton} onClick={openContactModal}>
           <h2>Свяжемся с вами?</h2>
         </button>
@@ -14,11 +14,11 @@ const Footer = ({ openContactModal }) => {
       <div className={classes.down}>
         <div className={classes.contactInfo}>
           <p>
-            <img className={classes.img} src="/img/Point.svg" alt="Point.svg" />
+            <img className={classes.img} src="./img/Point.svg" alt="Point.svg" />
             Россия, г.Стерлитамак, ул.Николаева, зд.124
           </p>
           <p>
-            <img className={classes.img} src="/img/Phone.svg" alt="Phone.svg" />
+            <img className={classes.img} src="./img/Phone.svg" alt="Phone.svg" />
             +7 (347) 343-64-45
           </p>
         </div>
