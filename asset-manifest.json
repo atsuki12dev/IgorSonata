@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Sonata/static/css/main.ff0f8767.css",
-    "main.js": "/Sonata/static/js/main.afb7fbd1.js",
-    "static/media/KosugiMaru.ttf": "/Sonata/static/media/KosugiMaru.dc10c3fc0d79e669c966.ttf",
-    "static/media/SercicesFone.png": "/Sonata/static/media/SercicesFone.dec7943417969351185b.png",
-    "static/media/AboutUsFone.png": "/Sonata/static/media/AboutUsFone.cf18620fd61e7c477324.png",
-    "static/media/Inter.ttf": "/Sonata/static/media/Inter.fd012577d3f8e88a8149.ttf",
-    "index.html": "/Sonata/index.html",
-    "main.ff0f8767.css.map": "/Sonata/static/css/main.ff0f8767.css.map",
-    "main.afb7fbd1.js.map": "/Sonata/static/js/main.afb7fbd1.js.map"
+    "main.css": "/IgorSonata/static/css/main.18734b8d.css",
+    "main.js": "/IgorSonata/static/js/main.10e7700e.js",
+    "static/media/KosugiMaru.ttf": "/IgorSonata/static/media/KosugiMaru.dc10c3fc0d79e669c966.ttf",
+    "static/media/SercicesFone.png": "/IgorSonata/static/media/SercicesFone.dec7943417969351185b.png",
+    "static/media/AboutUsFone.png": "/IgorSonata/static/media/AboutUsFone.cf18620fd61e7c477324.png",
+    "static/media/Inter.ttf": "/IgorSonata/static/media/Inter.fd012577d3f8e88a8149.ttf",
+    "index.html": "/IgorSonata/index.html",
+    "main.18734b8d.css.map": "/IgorSonata/static/css/main.18734b8d.css.map",
+    "main.10e7700e.js.map": "/IgorSonata/static/js/main.10e7700e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff0f8767.css",
-    "static/js/main.afb7fbd1.js"
+    "static/css/main.18734b8d.css",
+    "static/js/main.10e7700e.js"
   ]
 }
