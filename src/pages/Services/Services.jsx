@@ -40,7 +40,7 @@ const Services = () => {
     <div className={classes.Page}>
       {servicesData.map((section, sectionIndex) => (
         <div className={classes.section} key={sectionIndex}>
-          <img className={classes.wave} src="/img/AudioWave.png" alt="Audio Wave" />
+          <img className={classes.wave} src="./img/AudioWave.png" alt="Audio Wave" />
           <h1 className={classes.title}>{section.title}</h1>
           <hr className={classes.hr} />
 

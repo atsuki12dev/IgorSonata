@@ -12,7 +12,7 @@ function FAQ() {
   return (
     <div className={classes.faqContainer}>
       <div className={classes.titleBlock}>
-        <img className={classes.wave} src="./img/wave.png" alt="wave.png" />
+        <img className={classes.wave} src="./img/Wave.png" alt="wave.png" />
         <h1 className={classes.title}>FAQ</h1>
         <hr className={classes.hr} />
       </div>

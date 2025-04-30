@@ -19,7 +19,7 @@ const AboutUs = () => {
     return (
         <div className={classes.pageContainer}>
             <h1 className={classes.slogan}>{AboutUsData.slogan}</h1>
-            <img className={classes.logo} onClick={() => navigate('/')} src="/img/Logo.svg" alt="Logo.svg"/>
+            <img className={classes.logo} onClick={() => navigate('/')} src="./img/Logo.svg" alt="Logo.svg"/>
 
             <main className={classes.mainContent}>
                 <p className={classes.mainText}>

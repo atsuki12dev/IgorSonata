@@ -8,7 +8,7 @@ const ChapteServices = () => {
   return (
     <div className={classes.services}>
       <div className={classes.titleBlock}>
-        <img className={classes.wave} src="./img/wave.png" alt="wave.png" />
+        <img className={classes.wave} src="./img/Wave.png" alt="wave.png" />
         <h1 className={classes.title}>Услуги</h1>
         <hr className={classes.hr} />
       </div>
@@ -21,7 +21,7 @@ const ChapteServices = () => {
                     <p className={classes.description}>{service.description}</p>
                 </div>
             ))}
-            <button className={classes.button} onClick={() =>navigate('/Services')}><h2>Смотреть все услуги</h2></button>
+            <button className={classes.button} onClick={() =>navigate('/IgorSonata/Services')}><h2>Смотреть все услуги</h2></button>
         </div>
         <img
           className={classes.fonChapter}
